@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @anyeZHY from BNDS and SJTU
-<!---
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-anyeZHY/anyeZHY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @anyeZHY from [BNDS](http://www.bnds.cn/en/) and [SJTU](https://en.sjtu.edu.cn)
+- 🥳 My personal website: [HaoyuZhen.com](https://haoyuzhen.com)
+
+![anyeZHY's GitHub stats](https://github-readme-stats.vercel.app/api?username=anyeZHY&show_icons=true&bg_color=00000000)
